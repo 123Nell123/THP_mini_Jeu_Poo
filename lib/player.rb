@@ -42,7 +42,7 @@ end
 
 
 class HumanPlayer  < Player
-    attr_accessor : @weapon_level
+    attr_accessor :weapon_level
     
     
 
